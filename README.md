@@ -11,6 +11,7 @@ O presente estudo investiga o fenômeno das redes de políticas públicas e se d
 Artigo apresentado e [publicado](https://bd.camara.leg.br/bd/handle/bdcamara/40730) no [Simpósio Interdisciplinar sobre o Sistema Político Brasileiro & XI Jornada de Pesquisa e Extensão da Câmara dos Deputados](https://impa.br/eventos-do-impa/2021-2/sistema-politico-do-brasil/)
 
 ISBN 978-65-89700-34-0
+
 DOI 10.46550/978-65-89700-34-0
 
 ## Grupo de Pesquisa
