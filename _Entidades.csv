@@ -1,0 +1,586 @@
+Entidade;Frequência;Classe
+Advocacia Geral da União - AGU;35;4
+Agência Brasileira de Inteligencia - ABIN;12;4
+Agência Nacional das Águas - ANA;33;4
+Agência Nacional de Aviação Civil - ANAC;28;4
+Agência Nacional de Energia Elétrica - ANEEL;39;4
+Agência Nacional de Mineração - ANM;6;4
+Agência Nacional de Petróleo, Gás Natural e Biocombustíveis - ANP;21;4
+Agência Nacional de Saúde Suplementar - ANS ;17;4
+Agência Nacional de Telecomunicações - ANATEL;44;4
+Agência Nacional de Transportes Aquaviários - ANTAQ;15;4
+Agência Nacional de Transportes Terrestres - ANTT;64;4
+Agencia Nacional de Vigilância Sanitária - ANVISA;74;4
+Agência Nacional do Cinema - ANCINE;5;4
+Assembleia Legislativa de Minas Gerais - ALMG;12;4
+Assembleia Legislativa de São Paulo - ALESP;10;4
+Assembleia Legislativa do Ceará;6;4
+Assembleia Legislativa do Estado de Goiás;5;4
+Assembleia Legislativa do Estado do Pará;5;4
+Assembleia Legislativa do Estado do Rio de Janeiro - ALERJ;7;4
+Assembleia Legislativa do Paraná;5;4
+Assembleia Legislativa do Rio Grande do Sul;10;4
+Associação Brasileira de Municípios - ABM;6;4
+Associação Brasileira de Secretários Municipais de Esportes e Lazer;4;4
+Associação Nacional de Órgãos Municipais de Meio Ambiente - ANAMA;4;4
+Associação Nacional dos DETRANS - AND;19;4
+Associação Nacional dos Serviços Municipais de Saneamento - ASSEMAE;8;4
+Autoridade Pública Olímpica - APO;7;4
+Banco Central do Brasil - BACEN;44;4
+Banco Nacional de Desenvolvimento Econômico e Social - BNDES;56;4
+Camara Legislativa do Distrito Federal;9;4
+Câmara Municipal de Porto Alegre;5;4
+Casa Civil da Presidencia da Republica;33;4
+Casa da Moeda do Brasil;4;4
+Colégio Nacional dos Secretários de Segurança Pública - CONSESP;5;4
+Comando da Aeronáutica;12;4
+Comando da Marinha do Brasil;21;4
+Comissão de Valores Mobiliários - CVM;12;4
+Compainha de Desenvolvimento dos Vales de São Francisco e do Parnaíba - CODEVASF;23;4
+Companhia Hidro Elétrica do São Francisco - CHESF;8;4
+Companhia Nacional de Abastecimento - CONAB;13;4
+Confederação Nacional de Municípios - CNM;67;4
+Conselho Administrativo de Defesa Econômica - CADE;21;4
+Conselho de Controle de Atividades Financeiras - COAF;7;4
+Conselho Nacional de Educação - MEC;7;4
+Conselho Nacional de Justiça - CNJ;24;4
+Conselho Nacional de Política Criminal e Penitenciária - CNPCP;4;4
+Conselho Nacional de Política Fazendária - CONFAZ;7;4
+Conselho Nacional de Saúde - CNS;39;4
+Conselho Nacional de Secretarias Municipais de Saúde - CONASEMS;36;4
+Conselho Nacional de Secretários de Educação - CONSED ;27;4
+Conselho Nacional de Secretários de Saúde - CONASS ;32;4
+Conselho Nacional de Secretários Estaduais para Assuntos de Ciência, Tecnologia e Inovação - Consecti;5;4
+Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA;10;4
+Conselho Nacional de Trânsito - CONTRAN;5;4
+Conselho Nacional do Ministério Público - CNMP;12;4
+Conselho Nacional dos Direitos da Criança e do Adolescente - CONANDA;15;4
+Conselho Nacional dos Direitos da Pessoa com Deficiência - CONADE;13;4
+Conselho Nacional dos Direitos do Idoso - CNDI;9;4
+Conselho Nacional dos Direitos Humanos - CNDH;6;4
+Controladoria Geral da União - CGU;27;4
+Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES;14;4
+Corpo de Bombeiros Militar do Distrito Federal - CBMDF;9;4
+Defensoria Pública da União - DPU;28;4
+Defensoria Pública do Distrito Federal;8;4
+Defensoria Pública do Estado de São Paulo;6;4
+Defensoria Pública do Estado do Rio de Janeiro;8;4
+Departamento de Polícia Rodoviária Federal - DPRF;8;4
+Departamento de Proteção de Defesa do Consumidor - DPDC;7;4
+Departamento Nacional de Infraestrutura de Transportes - DNIT;52;4
+Departamento Nacional de Obras Contra as Secas - DNOCS;8;4
+Departamento Nacional de Produção Mineral - DNPM;8;4
+Departamento Nacional de Trânsito - DENATRAN;48;4
+Departamento Penitenciário Nacional - DEPEN;9;4
+EMATER-MG;6;4
+Empresa Brasileira de Infraestrutura Aeroportuária  - Infraero;9;4
+Empresa de Planejamento e Logística do Ministério dos Transportes - EPL;5;4
+Estado de São Paulo;8;4
+Estado do Pará;5;4
+Estado do Rio de Janeiro;4;4
+Estado Maior Conjunto das Forças Armadas;4;4
+Exército Brasileiro;27;4
+Financiadora de Estudos e Projetos - FINEP;6;4
+Fórum Nacional de Educação - FNE ;9;4
+Fórum Nacional dos Conselhos de Trânsito - FOCOTRAN;6;4
+Frente Nacional de Prefeitos - FNP;20;4
+Frente Parlamentar Agropecuária - FPA;8;4
+Fundação Nacional de Saúde - FUNASA ;9;4
+Fundação Nacional do Índio - FUNAI ;37;4
+Fundo Nacional de Desenvolvimento da Educação - FNDE;7;4
+Gabinete de Segurança Institucional da Presidência da República - GSI;5;4
+Governo do Distrito Federal;26;4
+Governo do Estado de Goiás;5;4
+Governo do Estado de São Paulo;6;4
+Instituto Brasileiro de Geografia e Estatística - IBGE;22;4
+Instituto Brasileiro de Turismo - EMBRATUR;17;4
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA;78;4
+Instituto Butantan;4;4
+Instituto Chico Mendes de Conservação da Biodiversidade - ICMBio ;32;4
+Instituto de Pesquisa Econômica Aplicada - IPEA;65;4
+Instituto de Seguridade Social dos Correios e Telégrafos - POSTALIS;4;4
+Instituto de Terras do Pará - ITERPA;5;4
+Instituto do Patrimônio Histórico e Artístico Nacional - IPHAN;13;4
+Instituto Mineiro de Gestão das Águas - IGAM;5;4
+Instituto Nacional de Colonização e Reforma Agrária - INCRA;27;4
+Instituto Nacional de Metrologia, Qualidade e Tecnologia – INMETRO;12;4
+Instituto Nacional do Câncer - INCA;10;4
+Instituto Nacional do Seguro Social - INSS;14;4
+Ministério da Agricultura, Pecuária e Abastecimento - MAPA;141;4
+Ministério da Cidadania;5;4
+Ministério da Ciência, Tecnologia, Inovações e Comunicações - MCTIC;77;4
+Ministério da Cultura - MINC;50;4
+Ministério da Defesa;47;4
+Ministério da Economia - ME;22;4
+Ministério da Educação - MEC;142;4
+Ministério da Fazenda - MF;94;4
+Ministério da Infraestrutura;7;4
+Ministério da Integração Nacional - MI;44;4
+Ministério da Justiça e Segurança Pública - MJ;135;4
+Ministério da Mulher, da Família e dos Direitos Humanos - MDH;36;4
+Ministério da Pesca e Aquicultura - MPA;6;4
+Ministério da Previdência Social - MPS;19;4
+Ministério da Saúde - MS;266;4
+Ministério das Cidades - MCidades;77;4
+Ministério das Comunicações - MC;30;4
+Ministério das Relações Exteriores - MRE;82;4
+Ministério de Minas e Energia - MME;86;4
+Ministério do Desenvolvimento Agrário - MDA;34;4
+Ministério do Desenvolvimento Econômico, Indústria e Comércio Exterior  - MDIC;78;4
+Ministério do Desenvolvimento Social - MDS;37;4
+Ministério do Esporte;59;4
+Ministério do Meio Ambiente - MMA;99;4
+Ministério do Planejamento, Desenvolvimento e Gestão - MPDG;99;4
+Ministério do Trabalho - MT;95;4
+Ministério do Turismo - MTur;35;4
+Ministério dos Transportes, Portos e Aviação Civil - MTPA;74;4
+Ministério Público da União - MPU;17;4
+Ministério Público de Minas Gerais - MPMG;10;4
+Ministério Público do Distrito Federal e Territórios - MPDFT;19;4
+Ministério Público do Estado de São Paulo;17;4
+Ministério Público do Estado do Pará;6;4
+Ministério Público do Estado do Paraná;5;4
+Ministério Público do Estado do Rio de Janeiro;7;4
+Ministério Publico do Trabalho;41;4
+Ministério Público Federal - MPF;127;4
+Polícia Civil do Distrito Federal;4;4
+Polícia Federal - PF;72;4
+Policia Militar do Distrito Federal;10;4
+Polícia Rodoviária Federal - PRF;42;4
+Prefeitura de São Paulo;7;4
+Prefeitura do Rio de Janeiro;6;4
+Presidência da República;75;4
+Procuradoria-Geral da República - PGR ;28;4
+Promotoria de Justiça;4;4
+Receita Federal do Brasil;42;4
+Secretaria da Previdência - SPREV/MF;13;4
+Secretaria da Receita Federal do Brasil - RFB;25;4
+Secretaria de Direitos Humanos da Presidência da República;39;4
+Secretaria de Políticas para as Mulheres da Presidência da República;16;4
+Secretaria de Segurança Pública do Estado do Rio de Janeiro;6;4
+Secretaria do Tesouro Nacional;15;4
+Secretaria Especial de Agricultura Familiar e Desenvolviemento Agrário;10;4
+Secretaria Nacional de Aviação Civil;18;4
+Secretaria Nacional de Defesa do Consumidor;7;4
+Secretaria Nacional de Promoção dos Direitos da Pessoa com Deficência;15;4
+Secretaria Nacional de Proteção e Defesa Civil;5;4
+Secretaria Nacional de Saneamento Ambiental;5;4
+Secretaria Nacional de Segurança Pública - SENASP;12;4
+Secretaria-Geral da Presidência da República - SGrPR;13;4
+Senado Federal;60;4
+Serviço Federal de Processamento de Dados - SERPRO;8;4
+Superintendência de Desenvolvimento do Centro-Oeste - SUDECO;4;4
+Superintendência de Seguros Privados - SUSEP;9;4
+Superintendência do Desenvolvimento do Nordeste - SUDENE;6;4
+Superintendência Nacional de Previdência Complementar - PREVIC;6;4
+Superintendente da Zona de Manaus - Suframa ;5;4
+Superior Tribunal de Justiça - STJ;19;4
+Supremo Tribunal Federal - STF;15;4
+Tesouro Nacional;5;4
+Tribunal de Contas da União - TCU;120;4
+Tribunal de Justiça do Distrito Federal e Territórios - TJDFT;9;4
+Tribunal de Justiça do Estado de São Paulo;13;4
+Tribunal Regional Federal da 3ª Região;5;4
+Tribunal Superior do Trabalho - TST;21;4
+Tribunal Superior Eleitoral - TSE;22;4
+União Nacional dos Dirigentes Municipais de Educação - UNDIME;31;4
+Academia Brasileira de Ciências - ABC;8;3
+Associação Brasileira de Psiquiatria - ABP;6;3
+Associação Brasileira de Saúde Coletiva - ABRASCO;8;3
+Associação Médica Brasileira - AMB;11;3
+Associação Nacional de Pesquisadores em Financiamento da Educação - FINEDUCA;7;3
+Associação Nacional de Pós-Graduação e Pesquisa em Educação - ANPED ;6;3
+Associação Nacional dos Dirigentes das Instituições Federais de Ensino Superior - ANDIFES;21;3
+Centro Brasileiro de Estudos de Saúde - CEBES;6;3
+Comitê da Bacia Hidrográfica do Rio São Francisco;7;3
+Comitê Gestor da Internet do Brasil - CGI;14;3
+Conselho de Arquitetura e Urbanismo do Brasil - CAU;14;3
+Conselho Federal de Contabilidade - CFC;4;3
+Conselho Federal de Educação Física - CONFEF;9;3
+Conselho Federal de Enfermagem - COFEN;9;3
+Conselho Federal de Engenharia e Agronomia - CONFEA;14;3
+Conselho Federal de Farmácia - CFF;6;3
+Conselho Federal de Fisioterapia e erapia Ocupacional - COFFITO;6;3
+Conselho Federal de Medicina - CFM;29;3
+Conselho Federal de Medicina Veterinária - CFMV;4;3
+Conselho Federal de Nutricionistas - CFN;6;3
+Conselho Federal de Odontologia - CFO;4;3
+Conselho Federal de Psicologia - CFP;17;3
+Conselho Nacional de Desenvolivmento Científico e Tecnológico - CNPq;5;3
+Departamento Intersindical de Estatística e Estudos Socioeconômicos - DIEESE;26;3
+Empresa Brasileira de Pesquisa Agropecuária - Embrapa;60;3
+Empresa de Pesquisa Energética - EPE;5;3
+Fundação Getúlio Vargas - FGV ;45;3
+Fundação Osvaldo Cruz - FIOCRUZ;51;3
+Grupo de Trabalho sobre Propriedade Intelectual - GTPI;4;3
+Instituto Acende Brasil;4;3
+Instituto Brasiliense de Direito Público - IDP;7;3
+Instituto de Energia e Meio Ambiente - IEMA ;4;3
+Instituto de Ensino e Pesquisa - INSPER;7;3
+Instituto de Estudos Socioeconomicos - INESC;12;3
+Instituto de Pesquisa Ambiental da Amazônia - IPAM;6;3
+Instituto de Tecnologia e Sociedade do Rio de Janeiro - ITS;7;3
+Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP;9;3
+Instituto Nacional de Pesquisa da Amazônia - INPA;4;3
+Instituto Nacional de Pesquisas Espaciais - INPE ;5;3
+InternetLab;4;3
+Ordem dos Advogados do Brasil -  OAB;142;3
+Ordem dos Advogados do Brasil - OAB/DF;20;3
+Ordem dos Advogados do Brasil - OAB/RJ;9;3
+Ordem dos Advogados do Brasil - OAB/SP;9;3
+Pontifícia Universidade Católica ;4;3
+Sociedade Brasileira para o Progresso da Ciência - SBPC;10;3
+Transparência Internacional Brasil;7;3
+Universidade de Brasília - UNB;112;3
+Universidade de São Paulo - USP;124;3
+Universidade Estadual de Campinas - UNICAMP;36;3
+Universidade Estadual de São Paulo - UNESP ;8;3
+Universidade Estadual do Rio de Janeiro - UERJ;23;3
+Universidade Federal da Bahia - UFBA;16;3
+Universidade Federal de Goiás - UFG;8;3
+Universidade Federal de Mato Grosso - UFMT;5;3
+Universidade Federal de Minas Gerais - UFMG;26;3
+Universidade Federal de Pelotas - UFPEL;4;3
+Universidade Federal de Pernambuco - UFPE;13;3
+Universidade Federal de Santa Catarina - UFSC;8;3
+Universidade Federal de São Paulo - UNIFESP;6;3
+Universidade Federal de Viçosa - UFV;5;3
+Universidade Federal do ABC - UFABC;4;3
+Universidade Federal do Amazonas - UFAM;6;3
+Universidade Federal do Ceará - UFC;8;3
+Universidade Federal do Espírito Santo - UFES;7;3
+Universidade Federal do Pará - UFPA ;12;3
+Universidade Federal do Paraná - UFPR;11;3
+Universidade Federal do Rio de Janeiro  - UFRJ;51;3
+Universidade Federal do Rio Grande do Norte - UFRN;4;3
+Universidade Federal do Rio Grande do Sul - UFRGS;12;3
+Universidade Federal Fluminense;9;3
+Universidade Mackenzie;4;3
+ABRACE;5;2
+Academia Brasileira de Neurologia;6;2
+AÇÃO EDUCATIVA;4;2
+Anistia Internacional;6;2
+Articulação dos Povos Indígenas do Brasil - APIB;12;2
+Articulação Nacional de Agroecologia - ANA;5;2
+Associação Artemis - ONG contra a Violência doméstica e Obstétrica;4;2
+Associação Brasileira da Propriedade Intelectual - ABPI;4;2
+Associação Brasileira das Entidades Estaduais de Assistência Técnica e Extensão Rural - ASBRAER;5;2
+Associação Brasileira das Secretarias de Finanças das Capitais - ABRASF;4;2
+Associação Brasileira de Antropologia - ABA;7;2
+Associação Brasileira de Cohab´s;4;2
+Associação Brasileira de Criminalística - ABC;17;2
+Associação Brasileira de Defesa do Consumidor - PROTESTE;10;2
+Associação Brasileira de Engenharia Sanitária e Ambiental - ABES;8;2
+Associação Brasileira de Lésbicas, Gays, Bissexuais, Travestis e Transexuais - ABGLT;4;2
+Associação Brasileira de Medicina de Tráfego - ABRAMET;4;2
+Associação Brasileira de Procons;4;2
+Associação dos Advogados de São Paulo - AASP;4;2
+Associação dos Delegados de Polícia do Brasil - ADEPOL;24;2
+Associação dos Juízes Federais do Brasil - AJUFE;21;2
+Associação dos Magistrados Brasileiros - AMB;28;2
+Associação dos Militares do Brasil - AMEBRASIL;12;2
+Associação dos Notários e Registradores do Brasil - ANOREG;5;2
+Associação Nacional de Entidades Representativas de Militares e Bombeiros – ANERMB;13;2
+Associação Nacional de Pós-Graduandos - ANPG;4;2
+Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil - ANFIP;27;2
+Associação Nacional dos Auditores Fiscais da Receita Federal do Brasil - UNAFISCO ;4;2
+Associação Nacional dos Centros Universitários - ANACEU;8;2
+Associação Nacional dos Consumidores de Energia - ANACE;6;2
+Associação Nacional dos Defensores Públicos - ANADEP;11;2
+Associação Nacional dos Defensores Públicos Federais - ANADEF;4;2
+Associação Nacional dos Delegados da Polícia Federal - ADPF;28;2
+Associação Nacional dos Magistrados da Justiça do Trabalho - ANAMATRA;25;2
+Associação Nacional dos Membros do Ministério Público - CONAMP;18;2
+Associação Nacional dos Peritos Criminais Federais  - APCF;8;2
+Associação Nacional dos Praças Policiais e Bombeiros Militares -  ANASPRA;18;2
+Associação Nacional dos Procuradores da República - ANPR;22;2
+Associação Nacional dos Procuradores dos Estados e do Distrito Federal - ANAPE;5;2
+Associação Paulista de Magistrados - APAMAGIS;4;2
+Atletas pelo Brasil;8;2
+Auditoria Cidadã da Dívida;5;2
+Bom Senso Futebol Clube;4;2
+Campanha Nacional pelo Direito à Educação;8;2
+Central dos  Sindicatos Brasileiros - CSB ;10;2
+Central dos Trabalhadores e Trabalhadoras do Brasil - CTB;21;2
+Central Sindical Polular - CSP;9;2
+Central Única dos Trabalhadores - CUT;38;2
+Centro de Valorização da Vida - CVV;4;2
+Centro Feminista de Estudos e Assessoria - CFEMEA;11;2
+Coletivo Brasil de Comunicação Social - INTERVOZES;9;2
+Coletivo Nacional dos Eletricitários;4;2
+Comissão de Atletas do Comitê Olímpico do Brasil;4;2
+Comitê Nacional em Defesa dos Territórios frente à Mineração;4;2
+Comitê Olímpico Brasileiro - COB;24;2
+Comitê Organizador dos Jogos Olímpico e Paralímpicos Rio 2016;7;2
+Comitê Paralímpico Brasileiro - CPB;9;2
+Conectas Direitos Humanos;4;2
+Confederação Brasileira de Atletismo - CBAT;5;2
+Confederação Brasileira de Basketbaal;4;2
+Confederação Brasileira de Canoagem;4;2
+Confederação Brasileira de Futebol - CBF;26;2
+Confederação Brasileira de Hipismo - CBH;4;2
+Confederação Brasileira de Trabalhadores Policiais Civis - COBRACOL;16;2
+Confederação Brasileira de Vela - CBVela;4;2
+Confederação Brasileira de Voleibol - CBV;5;2
+Confederação Brasileira do Desporto Escolar - CBDE;6;2
+Confederação Brasileira do Desporto Universitário - CBDU;4;2
+Confederação das Santas Casas de Misericórdia, Hospitais e Entidades Filantrópicas - CMB;6;2
+Confederação dos Servidores Públicos do Brasil - CSPB;6;2
+Confederação dos Trabalhadores do Serviço Público Federal - CONDSEF;4;2
+Confederação Nacional das Entidades da Família - CONEF;5;2
+Confederação Nacional dos Agentes Comunitários de Saúde - CONACS;8;2
+Confederação Nacional dos Bispos do Brasil - CNBB;25;2
+Confederação Nacional dos Pescadores e Aquicultores - CNPA;5;2
+Confederação Nacional dos Trabalhadores do Ramo Financeiro - CONTRAF;5;2
+Confederação Nacional dos Trabalhadores em Educação - CNTE ;26;2
+Confederação Nacional dos Trabalhadores em Estabelecimentos de Ensino - CONTEE;4;2
+Confederação Nacional dos Trabalhadores em Turismo e Hospitalidade - CONTRATUH;5;2
+Confederação Nacional dos Trabalhadores na Agricultura - CONTAG ;49;2
+Confederação Nacional dos Trabalhadores na Indústria - CNTI;8;2
+Confederação Nacional dos Transportadores Autônomas - CNTA;7;2
+Conferencia Nacional das Guardas Municipais - CONGM;5;2
+Conselho Indigenista Missionário - CIMI;10;2
+Conselho Nacional de Assistência Social - CNAS;5;2
+Conselho Nacional de Comandantes Gerais - CNCG;7;2
+Conselho Nacional de Igrejas Cristãs do Brasil;4;2
+Conselho Nacional de Imigração - CNIg;5;2
+Conselho Nacional dos Chefes de Polícia Civil - CONCPC;12;2
+Conselho Nacional dos Comandantes-Gerais Das Polícias e Corpos de Bombeiros Militares do Brasil - CNCG;26;2
+Conselho Nacional dos Membros do Ministério Público - CONAMP;5;2
+Coordenação das Organizações Indígenas da Amazônia Brasileira - COIAB;5;2
+Departamento Intersindical de Assessoria Parlamentar - DIAP;12;2
+Educação de Afrodescendentes - Educafro;4;2
+Federação Brasileira de Instituições Filantrópicas de Apoio à Saúde da Mama - FEMAMA;5;2
+Federação Brasileira de Treinadores de Futebol - FBTF;4;2
+Federação de Sindicatos de Trabalhadores Técnico-Administrativo em Instituições de Ensino Superior Públicas do Brasil - FASUBRA ;5;2
+Federação dos Policiais Civis do Brasil - FEIPOL;5;2
+Federação dos Trabalhadores na Agricultura do Rio Grande do Sul - FETAG/RS;9;2
+Federação Interestadual dos Sindicatos dos Trabalhadores e Trabalhadoras dos Correios - FINDECT;4;2
+Federação Nacional das Entidades de Oficiais Militares Estaduais - FENEME;33;2
+Federação Nacional do Fisco Estadual e Distrital - FENAFISCO;5;2
+Federação Nacional dos Agentes Comunitários de Saúde e Agentes de Combate às Endemias - FENASCE;8;2
+Federação Nacional dos Atletas Profissionais de Futebol - FENAPAF;4;2
+Federação Nacional dos Corretores de Seguros Privados e de Resseguros, de Capitalização, de Previdência Privada, das Empresas Corretoras de Seguros e de Resseguros - FENACOR;6;2
+Federação Nacional dos Delegados de Polícia do Brasil - FENDEPOL;10;2
+Federação Nacional dos Operadores Portuários - FENOP;4;2
+Federação Nacional dos Policiais Federais -  FENAPEF;31;2
+Federação Nacional dos Policiais Rodoviários Federais - FENAPRF;33;2
+Federação Nacional dos Trabalhadores da Assistência Técnica e Extensão Rural e do Setor público Agrícola do Brasil - FASER;5;2
+Federação Nacional dos Trabalhadores do Judiciário Federal e Ministério Público da União - FENAJUFE;4;2
+Federação Nacional dos Trabalhadores e Trabalhadoras na Agricultura Familiar - FETRAF;6;2
+Federação Nacional dos Trabalhadores em Empresas de Correios, Telágrafos e Similares - FENTECT;4;2
+Federação Nacional dos Urbanitários - FNU;11;2
+Federação Paulista de Futebol - FPF;6;2
+Federação Sindical Nacional de Servidores Penitenciários - FENASPEN;4;2
+Federação Única dos Petroleiros - FUP;10;2
+Força Sindical - FS;14;2
+Fórum Alternativo Mundial da Água - FAMA;4;2
+Fórum Brasileiro de Mudanças Climáticas - FBMC;4;2
+Fórum Brasileiro de Segurança Pública - FBSP;11;2
+Fórum Nacional pela Democracização da Comunicação - FNDC;9;2
+Fórum Nacional Permanente de Carreiras Típicas de Estado - FONACATE;4;2
+Fundação ABRINQ;7;2
+Fundação Cultural Palmares;4;2
+Fundação dos Economiários Federais - FUNCEF;6;2
+Fundação Maria Cecília Souto Vidigal;4;2
+Fundação Petrobras de Seguridade Social - PETROS;4;2
+Fundação SOS Mata Atlântica;10;2
+Fundo das Nações Unidas para a Infância - UNICEF ;4;2
+Greenpeace;15;2
+Instituto  Socioambiental - ISA ;9;2
+Instituto Alana;6;2
+Instituto Brasileiro de Ciências Criminais - IBCCRIM;8;2
+Instituto Brasileiro de Defesa do Consumidor - IDEC;34;2
+Instituto Brasileiro de Direito da Família - IBDFAM;4;2
+Instituto de Direito Sanitário Aplicado - IDISA;4;2
+Instituto do Homem e Meio Ambiente da Amazônia - IMAZON;5;2
+Instituto Oncoguia;9;2
+Instituto Socioambiental - ISA;11;2
+Instituto Sou da Paz;8;2
+Movimento dos Atingidos pela Mineração - MAM;4;2
+Movimento dos Atingidos por Barragens - MAB;12;2
+Movimento dos Trabalhadores Rurais Sem Terra - MST;25;2
+Movimento Nacional de Direitos Humanos - MNDH ;6;2
+Movimento Nacional dos Catadores de Materiais Recicláveis;5;2
+Movimento Orgulho Autista Brasil - MOAB;11;2
+Movimento Todos pela Educação;6;2
+Nova Central Sidical dos Trabalhadores -  NCST;14;2
+Observatório do Clima;8;2
+Observatório Nacional de Segurança Viária - ONSV;11;2
+ONU Mulheres Brasil;6;2
+Organização Internacional do Trabalho - OIT ;5;2
+ORGANIZAÇÃO PAN-AMERICANA DA SAÚDE - OPAS/OMS;8;2
+Proteste;5;2
+Rede Nacional Primeira Infância;4;2
+Safernet Brasil;6;2
+Secretaria Nacional do Consumidor - SENACON;29;2
+Sindicato dos Bancários de Brasília;7;2
+Sindicato dos Policiais Federais no Distrito Federal-SINDIPOL/DF;4;2
+Sindicato Nacional dos Aeronautas - SNA;6;2
+Sindicato Nacional dos Analistas-Tributários da Receita Federal - SINDIRECEITA ;7;2
+Sindicato Nacional dos Auditores Fiscais da Receita Federal - SINDIFISCO;22;2
+Sindicato Nacional dos Auditores Fiscais do Trabalho – SINAIT;12;2
+Sindicato Nacional dos Funcionários do Banco Central - SINAL;8;2
+Sociedade Brasileira de Cardiologia -SBC ;4;2
+Sociedade Brasileira de Diabetes - SBD;4;2
+Sociedade Brasileira de Nefrologia - SBN;4;2
+Sociedade Brasileira de Oncologia Clínica - SBOC;10;2
+Sociedade Brasileira de Ortopedia e Traumatologia - SBOT;4;2
+Sociedade Brasileira de Pediatria;5;2
+Sociedade Brasileira de Reumatologia - SBR;4;2
+Sociedade Brasileira de Urologia - SBU;8;2
+SOS Mata Atlântica;6;2
+UNESCO;6;2
+União Brasileira dos Estudantes Secundaristas - UBES;12;2
+União Geral dos Trabalhadores - UGT;11;2
+União Nacional das Cooperativas da Agricultura Familiar e Economia Solidária - UNICAFES;4;2
+União Nacional das Instituições de Autogestão em Saúde - UNIDAS;4;2
+União Nacional dos Estudantes - UNE;21;2
+União Nacional dos Legisladores e Legislativos Estaduais - UNALE;4;2
+UNICEF;13;2
+Via Campesina;4;2
+WWF - Brasil;13;2
+Associação Brasileira da Indústria de Alimentos Para Fins Especiais e Congêneres - ABIAD;4;1
+Associação Brasileira da Indústria de Hotéis - ABIH;11;1
+Associação Brasileira da Indústria de Máquinas e Equipamentos - ABIMAQ;12;1
+Associação Brasileira da Indústria Elétrica e Eletrônica - ABINEE;12;1
+Associação Brasileira da Indústria Química - ABIQUIM;9;1
+Associação Brasileira da Indústria Têxtil e de Confecção - ABIT;6;1
+Associação Brasileira das Associações e Cooperativas de Motorista de Taxi - ABRACOMTAXI;4;1
+Associação Brasileira das Empresas Aéreas - ABEAR;27;1
+Associação Brasileira das Empresas de Cartões de Crédito e Serviços  - ABECS;7;1
+Associação Brasileira das Empresas de Software - ABES;8;1
+Associação Brasileira das Empresas de Tecnologia da Informação e Comunicação - BRASSCOM;11;1
+Associação Brasileira das Empresas Estaduais de Saneamento - AESBE;8;1
+Associação Brasileira das Entidades de Crédito Imobiliário e Poupança - ABECIP;4;1
+Associação Brasileira das Indústrias de Óleos Vegetais - ABIOVE;6;1
+Associação Brasileira das Indústrias de Refrigerantes e de Bebidas não Alcoólicas - ABIR;5;1
+Associação Brasileira de Bares e Restaurantes - ABRASEL;4;1
+Associação Brasileira de Concessionárias de Rodovias - ABCR;5;1
+Associação Brasileira de Distribuidores de Energia Elétrica - ABRADEE;6;1
+Associação Brasileira de Emissoras de Rádio e Televisão - ABERT;13;1
+Associação Brasileira de Energia Eólica - ABEEólica;7;1
+Associação Brasileira de Energia Solar Fotovoltaica - ABSOLAR;4;1
+Associação Brasileira de Internet - ABRANET;4;1
+Associação Brasileira de Mantenedoras do Ensino Superior - ABMES ;4;1
+Associação Brasileira de Planos de Saúde - ABRAMGE;6;1
+Associação Brasileira de Proteína Animal - ABPA;11;1
+Associação Brasileira de Rádio e Televisão - ABRATEL;6;1
+Associação Brasileira de Sementes e Mudas - ABRASEM;4;1
+Associação Brasileira de Vaquejada - ABVAQ;4;1
+Associação Brasileira dos Comercializadores de Enegia - ABRACEEL;7;1
+Associação Brasileira dos Distribuidores de Energia Elétrica - ABRADEE;5;1
+Associação Brasileira dos Fabricantes de Brinquedos - ABRINQ;4;1
+Associação Brasileira dos Fabricantes de Motocicleta, Ciclomotores, Motonetas, Bicicletas e Similares - ABRACICLO;7;1
+Associação Brasileira dos Produtores de Algodão - ABRAPA;6;1
+Associação Brasileira dos Produtores de Soja - APROSOJA;4;1
+Associação Brasileira dos Produtores Independentes de Energia Elétrica - APINE;5;1
+Associação Brasileira dos Terminais Portuários - ABTP;4;1
+Associação Chapecoense de Futebol;5;1
+Associação da Indústria Farmaceutica de Pesquisa - INTERFARMA;21;1
+Associação de Empresas de Desenvolvimento Tecnológico Nacional e Inovação (P&D Brasil);6;1
+Associação dos Fumicultores do Brasil - AFUBRA;9;1
+Associação dos Produtores de Soja - APROSOJA;8;1
+Associação Nacional das Universidades Particulares - ANUP;8;1
+Associação Nacional de Praças - ANASPRA;10;1
+Associação Nacional do Transporte de Cargas e Logística - NTC & Logística;7;1
+Associação Nacional dos Fabricantes de Veículos Automotores - ANFAVEA;17;1
+Associação Nacional dos Transportadores Ferroviários - ANTF;6;1
+Associação Nacional dos Usuários do Transporte de Carga - ANUT;5;1
+AVIANCA;5;1
+Azul Linhas Aéreas;7;1
+Banco Amazônia -  BASA;11;1
+Banco do Brasil  - BB;44;1
+Banco do Nordeste - BNB;20;1
+Banco Mundial;7;1
+Botafogo de Futebol e Regatas;4;1
+Caixa Econômica Federal  - CEF;66;1
+Câmara Brasileira da Indústria da Construção - CBIC;25;1
+Câmara Brasileira de Comércio Eletrônico - Câmara e-net;7;1
+Camargo Corrêa;4;1
+Casa Hunter;5;1
+Central Brasileira do Setor de Serviços - CEBRASSE;4;1
+Centro de Integração Empresa Escola - CIEE;4;1
+Centro de Pesquisa e Desenvolvimento em Telecomunicações (CPqD);4;1
+CLARO;7;1
+Clube Avaí Futebol Clube;5;1
+Clube Coritiba Futebol Clube/PR;4;1
+Clube Cruzeiro Esporte Clube;5;1
+Clube de Engenharia;4;1
+CLUBE DE REGATAS BRASIL - CRB;11;1
+Clube de Regatas Vasco da Gama;5;1
+Clube ESPORTE CLUBE PINHEIROS;6;1
+Clube Esporte Clube Vitória;4;1
+Clube Fluminense Football Club;6;1
+Clube Goiás Esporte Clube;5;1
+Clube Grêmio Esportivo Brasil ;4;1
+Clube Minas Tênis Clube;6;1
+Clube Santos Futebol Clube;4;1
+Clube Sport Clube CORINTHIANS PAULISTA;4;1
+Comitê Brasileiro de Clubes;4;1
+Concessionária ECO 101;10;1
+Confederação das Associações Comerciais e Empresariais do Brasil - CACB;5;1
+Confederação Nacional da Agricultura e Pecuária - CNA ;96;1
+Confederação Nacional da Indústria  - CNI;71;1
+Confederação Nacional da Saúde - CNS;8;1
+Confederação Nacional das Empresas de Seguros Gerais, Previdência Privada e Vida, Saúde Suplementar e Capitalização - CNSEG;5;1
+Confederação Nacional das Instituições Financeiras - CNF;8;1
+Confederação Nacional do Comércio de Bens, Serviço e  Turismo - CNC;36;1
+Confederação Nacional do Transporte - CNT;14;1
+Confederação Nacional do Turismo - CNTur;7;1
+Conselho Nacional do Café - CNC;5;1
+CORREIOS;7;1
+Eletrobrás S/A;10;1
+Empresa Brasil de Comunicação - EBC;7;1
+Empresa Brasileira de Correios e Telégrafos - ECT;8;1
+Engenharia, Construções e Ferrovias S.A. - VALEC ;8;1
+FACEBOOK ;9;1
+Federação Brasileira das Empresas Lotéricas - FEBRALOT;5;1
+Federação Brasileira de Hospedagem e Alimentação - FBHA;15;1
+Federação Brasileira dos Bancos - FEBRABAN;25;1
+Federação da Agricultura do Estado do Rio Grande do Sul - Farsul;10;1
+Federação da Agricultura e Pecuária do Estado do Ceará - FAEC;4;1
+Federação das Associações das Empresas Brasileiras de Tecnologia da Informação - ASSESPRO;4;1
+Federação das Associações de Arrozeiros do Estado do Rio Grande do Sul - FEDERARROZ/RS;6;1
+Federação das Indústrias do Estado de São Paulo - FIESP;12;1
+Federação das Indústrias do Estado do Amazonas - FIEAM;4;1
+Federação de Comércio - FECOMÉRCIO;5;1
+Federação nacional das Empresas de Informática - FENAINFO;4;1
+Federação Nacional das Empresas de Segurança e Transporte de Valores - FENAVIST;4;1
+Federação Nacional das Empresas de Serviços Contábeis e das Empresas de Assessoramento, Perícias, Informações e Pesquisas - FENACON;4;1
+Federação Nacional das Escolas Particulares - FENEP;8;1
+Federação Nacional de Saúde Suplementar - FenaSaúde;8;1
+Federação Nacional do Comércio de Combustíveis e de Lubrificantes - Fecombustíveis;4;1
+Federação Tocantinense de Futebol;4;1
+Fórum de Operadores Hoteleiros do Brasil - FOHB;4;1
+Gol Linhas Aéreas;5;1
+Google;9;1
+Grêmio Náutico União;4;1
+Instituto Brasileiro de Mineração - IBRAM;9;1
+Instituto Brasileiro de Petróleo, Gás e Biocombustíveis - IBP;4;1
+Instituto Euvaldo Lodi - IEL;4;1
+Instituto Rio Grandense de Arroz - IRGA;4;1
+ITAÚ CULTURAL;5;1
+LATAM Airlines;5;1
+Maurício de Sousa Produções;4;1
+Motion Picture Association - MPA;6;1
+NTC&Logística;7;1
+Oi Brasil Telecom;7;1
+PETROBRAS - Petróleo Brasileiro S.A;56;1
+Rede Globo;9;1
+Rumo Logística Operadora Multimodal S.A.;4;1
+Seguradora Líder - DPVAT;6;1
+Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - SEBRAE;21;1
+Serviço Nacional de Aprendizagem Industrial - SENAI;8;1
+Sindicato da Indústria Naval Brasileira - SINAVAL;7;1
+Sindicato das Empresas de Compra, Venda, Locação e Administração de Imóveis Residenciais e Comerciais de São Paulo - SECOVI/SP;9;1
+Sindicato das Indústrias Farmacêuticas no Estado de São Paulo - SINDUSFARMA;5;1
+Sindicato Interestadual da Indústria do Tabaco - SINDITABACO;6;1
+Sindicato Nacional das Empresas de Telefonia e de Serviço Móvel Celular e Pessoal - SINDITELEBRASIL;33;1
+Telecomunicações Brasileiras S. A. (Telebras);6;1
+Telefônica Vivo;5;1
+Tim Brasil;7;1
+Uber Brasil;7;1
+União da Indústria de Cana-de-Açucar - UNICA;7;1
+Vale S.A.;4;1
+VIVO;5;1
